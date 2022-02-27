@@ -48,7 +48,7 @@ body {
   text-align: center;
 }
 
-.card__info > h2 {
+.card__info > h1 {
   font-weight: 700;
   color: var(--color-titles);
   font-size: 2.2rem;
